@@ -16,14 +16,9 @@ Sensor: Radar - radio wave radar
 Sensor: Sonar - sound wave 'radar' (including ultrasonic)  
 Sensor: Combined - also possible to use a combination of the above  
 
-Feedback: Haptic
-Feedback: Audio Tonal
-Feedback: Audio Descriptive
-
-Echo Location  
-Ultrasonic Echolocation  
-Audio Feedback  
-Haptic Feedback
+Feedback: Haptic  
+Feedback: Audio Tonal  
+Feedback: Audio Descriptive  
 
 ## Research Projects
 
